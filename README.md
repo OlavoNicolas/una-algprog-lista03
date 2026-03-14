@@ -9,4 +9,4 @@ Em **sistemas financeiros ou científicos**, muitos cálculos envolvem **valores
 * Usar **inteiro** pode **cortar as casas decimais**, causando perda de precisão.
 * Usar **real** pode gerar **pequenos erros de arredondamento** por causa da forma como os números são representados na memória.
 
-Por isso, escolher o tipo correto ajuda a **evitar erros de cálculo, perda de precisão e resultados incorretos**, o que é essencial em áreas onde números precisam ser **exatos e confiáveis**. 📊
+Por isso, escolher o tipo correto ajuda a **evitar erros de cálculo, perda de precisão e resultados incorretos**, o que é essencial em áreas onde números precisam ser **exatos e confiáveis**.
